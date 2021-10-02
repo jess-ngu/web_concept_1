@@ -1,4 +1,4 @@
-package ca.sheridancollege.nguye399.controllers;
+package ca.sheridancollege.controllers;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
